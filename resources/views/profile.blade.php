@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <h2>Profile Halaman</h2>
+    <h1>Profile Halaman</h1>
 </body>
 
 </html>
